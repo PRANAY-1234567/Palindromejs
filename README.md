@@ -39,7 +39,6 @@ This is a simple and beginner-friendly project for learning string manipulation 
 function isPalindrome(str) {
     return str === str.split("").reverse().join("");
 }
-
 console.log(isPalindrome("madam"));
 ```
 
