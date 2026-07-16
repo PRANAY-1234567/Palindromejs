@@ -4,7 +4,6 @@
 
 This project demonstrates how to check whether a given string is a **palindrome** using JavaScript.
 A palindrome is a word, phrase, or sequence that reads the same forward and backward. The program reverses the input string using built-in string and array methods, then compares it with the original string to determine whether it is a palindrome.
-
 This is a simple and beginner-friendly project for learning string manipulation and JavaScript functions.
 
 ---
